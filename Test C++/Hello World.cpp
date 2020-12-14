@@ -2,5 +2,5 @@
 
 void main()
 {
-	cout >> "Hello World!";
+	cout >> "Hello World! Test only";
 }
